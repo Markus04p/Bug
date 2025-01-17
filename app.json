@@ -50,7 +50,7 @@
 
         "description": "A Bot's token from Botfather",
 
-        "value": "7940603237:AAHtpB-l7SqaG6Rm7tDhQpCM5UO4e52cGpk",
+        "value": "7024004068:AAFdWPJoXkYPPCv7lkmdZ6K0KdzaD1HdAK8",
 
         "required": true
 
@@ -60,7 +60,7 @@
 
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
 
-        "value": "mongodb+srv://tennyson2002:tennyson2002@cluster0.h1vm3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "value": "mongodb+srv://architect2002:architect2002@cluster0.ccinu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
 
         "required": true
 
@@ -70,7 +70,7 @@
 
         "description": "The user id of user whom you would like to add as OWNER.",
 
-        "value": "7224419362",
+        "value": "7823100937",
 
         "required": true
 
@@ -80,7 +80,7 @@
 
         "description": "A Pyrogram v2 String Session from Replit.",
 
-        "value": "BQC86fAAbIP1EZaDdUQ_RTicHQSKFFzB24l7LTglDMDYXjwra-2D4coplxBze3usVS4OUM_P-q1buYgEhC5cJtxuV07jMHeMoA7rmtbmGWjufPkcRG-l4zuiWXCy2AET-M1BtljXVCFHhVGXmFIQLHAIoOqe8fPyVhmBoE-5Gao-kWCzJsua8ExyApduC4sEOazoc7h2udbFMZY_CtesqNVZpIEMC3MU4c08oJonQfOHfGZcv2kBUIgHyPZh42vpSTQ4l6jpkYlV5Vch1v5QrI1UoFq8AdYmHV9JaodslwgkF5nTUG2NY4EE_44E2d7i7FswoTeKO6_DCLn5lKnEYiU_Ep7QqgAAAAHoTI4-AA",
+        "value": "BQFmQ5kAcCTWxNMWG8lDmA7Sf-T-QmcyWb9K1ydVpHE1K0Pos8OEXK9S4noJJNWQLOFgI7cWAgzCinlEV8qZ2PnyyOMfJaCnsiy8Por5dngvaBDkCpZufGXd8ChWHumJe2R59zybTWPC5yTxrK13sAs0fp6Vm0snPsZu9ZMtTxk8xqqOw2tubOrFTBOa64GIhzIgJqElqZydNJmxC7Il0aTfUdHKqsX5t60PH3FxQxF0kizX1q_mNpPdgkq_j7TtT8IlpnRxNuW1oPioDVzYnRI9V2_bGoFwKf0jxOrFcvP5DYhuuIZ6vcMy4HEUvmAnaP61PTRtY1A5m8Pd2i2Ha8xb8MEBsAAAAAGzXepPAA",
 
         "required": true
 
@@ -110,7 +110,7 @@
 
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Do not ever try to put channel ID here.",
 
-        "value": "-1002251188406",
+        "value": "-1002286552790",
 
         "required": true
 
