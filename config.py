@@ -11,18 +11,18 @@ API_ID = "27758016"
 API_HASH = "8d34cfffe27ab461eabbf0091b1a27df"
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = "7940603237:AAHtpB-l7SqaG6Rm7tDhQpCM5UO4e52cGpk"
+BOT_TOKEN = "7921956504:AAFDu5ex_svP26m6Oke16KTcvU3QptQpc8k"
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = "mongodb+srv://tennyson2002:tennyson2002@cluster0.h1vm3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGO_DB_URI = "mongodb+srv://architect04:architect04@cluster0.fylqb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 6000))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002251188406"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002286552790"))
 
 # Get this value from @FallenxBot on Telegram by /id
-OWNER_ID = 7224419362
+OWNER_ID = 7823100937
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -32,15 +32,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Marwin2002/JioSaavn",
+    "https://github.com/SilkSmithavibz/Sam",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/The_Architect04")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Team_Supporty")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Hustel_Appeal")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Hustle_Squad_Log")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -62,7 +62,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 # Get your pyrogram v2 session from @StringFatherBot on Telegram
-STRING1 = "BQC86fAAbIP1EZaDdUQ_RTicHQSKFFzB24l7LTglDMDYXjwra-2D4coplxBze3usVS4OUM_P-q1buYgEhC5cJtxuV07jMHeMoA7rmtbmGWjufPkcRG-l4zuiWXCy2AET-M1BtljXVCFHhVGXmFIQLHAIoOqe8fPyVhmBoE-5Gao-kWCzJsua8ExyApduC4sEOazoc7h2udbFMZY_CtesqNVZpIEMC3MU4c08oJonQfOHfGZcv2kBUIgHyPZh42vpSTQ4l6jpkYlV5Vch1v5QrI1UoFq8AdYmHV9JaodslwgkF5nTUG2NY4EE_44E2d7i7FswoTeKO6_DCLn5lKnEYiU_Ep7QqgAAAAHoTI4-AA"
+STRING1 = "BQFmQ5kAcCTWxNMWG8lDmA7Sf-T-QmcyWb9K1ydVpHE1K0Pos8OEXK9S4noJJNWQLOFgI7cWAgzCinlEV8qZ2PnyyOMfJaCnsiy8Por5dngvaBDkCpZufGXd8ChWHumJe2R59zybTWPC5yTxrK13sAs0fp6Vm0snPsZu9ZMtTxk8xqqOw2tubOrFTBOa64GIhzIgJqElqZydNJmxC7Il0aTfUdHKqsX5t60PH3FxQxF0kizX1q_mNpPdgkq_j7TtT8IlpnRxNuW1oPioDVzYnRI9V2_bGoFwKf0jxOrFcvP5DYhuuIZ6vcMy4HEUvmAnaP61PTRtY1A5m8Pd2i2Ha8xb8MEBsAAAAAGzXepPAA"
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -78,13 +78,13 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://envs.sh/rEw.jpg"
+    "START_IMG_URL", "https://envs.sh/H2Y.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://envs.sh/r2A.jpg"
+    "PING_IMG_URL", "https://envs.sh/H2R.jpg"
 )
-PLAYLIST_IMG_URL = "https://envs.sh/rw8.jpg"
-STATS_IMG_URL = "https://envs.sh/r2j.jpg"
+PLAYLIST_IMG_URL = "https://envs.sh/H2N.jpg"
+STATS_IMG_URL = "https://envs.sh/H2v.jpg"
 TELEGRAM_AUDIO_URL = "https://envs.sh/CLg.jpeg"
 TELEGRAM_VIDEO_URL = "https://envs.sh/CLg.jpeg"
 STREAM_IMG_URL = "https://envs.sh/CLg.jpeg"
