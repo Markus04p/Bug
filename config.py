@@ -81,10 +81,10 @@ START_IMG_URL = getenv(
     "START_IMG_URL", "https://envs.sh/H2Y.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://envs.sh/H2R.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/fd3793e6768bda5d244d7-ddef84eb6d37e8d11a.jpg"
 )
 PLAYLIST_IMG_URL = "https://envs.sh/H2N.jpg"
-STATS_IMG_URL = "https://envs.sh/H2v.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/d0e0956b221277c6266be-3cee9855c6f16c41de.jpg"
 TELEGRAM_AUDIO_URL = "https://envs.sh/CLg.jpeg"
 TELEGRAM_VIDEO_URL = "https://envs.sh/CLg.jpeg"
 STREAM_IMG_URL = "https://envs.sh/CLg.jpeg"
